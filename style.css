@@ -1,0 +1,112 @@
+.first-div{
+    text-align: center;
+    color: rgb(255, 255, 255);padding-top: 100px;
+    padding-bottom: 200px;
+    font-size: larger;
+}
+.first-section{
+    background: url(Images/images/donation1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  
+}
+.text-class{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+.second-div{
+    text-align: center;
+   
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.span-class{
+  
+    background-color: rgb(235, 239, 243);
+    margin-left: 100px;
+    padding: 50px;
+    
+}
+#span-id{
+    background-color: bisque;
+    border: 1px solid plum;
+}
+#hr-id{
+    width: 50%;
+}
+.third-div{
+    text-align: center;
+    
+}
+.under-div{
+    display: flex;
+    padding-left: 450px;
+    padding-right: 450px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    
+    
+}
+#one-div{
+    background-color: antiquewhite;
+    margin-right: 50px;
+    border-radius: 2px;
+    padding: 50px;
+}
+#two-div{
+    background-color: rgba(243, 209, 165, 0.801);
+    margin-right: 50px;
+    border-radius: 2px;
+    padding: 50px;
+}
+#third-div{
+    background-color: rgb(240, 179, 101);
+    margin-right: 50px;
+    border-radius: 2px;
+    padding: 50px;
+}
+.last-div{
+    text-align: center;
+    padding-bottom: 50px;
+    
+    
+    
+}
+.sorry{
+    display: inline-block;
+   
+    padding: 30px;
+    
+    
+    
+}
+#monto-id{
+    background-color: red;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+#sonto-id{
+    background-color: rgb(240, 233, 233);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 70px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+.final{
+    background-color: wheat;
+    
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 10px;
+}
